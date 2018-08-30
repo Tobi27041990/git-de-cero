@@ -1,4 +1,4 @@
-# git-de-cero
+# git-de-0
 
 ## Proyecto de cero
 
